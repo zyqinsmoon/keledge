@@ -1,12 +1,4 @@
-# Keledge Pdf下载
 
-[可知](https://www.keledge.com/)平台pdf下载，仅支持pdf格式资源下载。
-
-[高教书苑->](hep/hep.md)
-
-[悦读->](51zhy/51zhy.md)
-
----
 
 ## 免责声明
 
